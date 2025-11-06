@@ -106,3 +106,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+Name: Phattharaphon Aimchai
+Class/Major: C2R1 Computer Engineering
+Interests/Hobbies: Music, Learning new things
+ID: 67991018
